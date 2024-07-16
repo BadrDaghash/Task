@@ -1,0 +1,42 @@
+/* In your App.css or a similar stylesheet */
+.headContainer {
+  width: 100%;
+}
+
+.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: #131842;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.navbar-text {
+  font-size: 14px;
+}
+
+span {
+  color: #C80036;
+}
+
+.header {
+  color: #C80036;
+  padding: 15px 2px;
+  
+}
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 18px;
+}
+
+
+.graph {
+  padding-bottom: 20px;
+}
